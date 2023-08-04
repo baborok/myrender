@@ -6,3 +6,4 @@ plotly==5.10.0
 gunicorn
 dash-tools
 xlrd
+dash flask
